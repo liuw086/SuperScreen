@@ -1,5 +1,6 @@
 # SuperScreen
-![Uploading Frame 177.png…]()
+![Frame 177](https://github.com/liuw086/SuperScreen/assets/9710022/18f154eb-dd3b-4ffd-a06f-a26431e6adb1)
+
 
 Super Screen offers VR users a unique and immersive viewing experience. This application creates virtual environments such as cinemas and classrooms within VR, offering users a mixed reality (MR) experience that blends the virtual and real worlds. It supports various video formats including 2D, 3D, 180-degree, and 360-degree videos, and can play videos in resolutions up to 8K, ensuring an ultimate visual experience. Users can also conveniently share media files from computers within the same local area network to their VR devices. Currently, the video formats are limited to mp4 and mkv, but more types are being developed for future versions.
 
