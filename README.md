@@ -11,3 +11,7 @@ PC client download ：https://github.com/liuw086/SuperScreenPC/releases/
 ![大屏中打开](https://github.com/liuw086/SuperScreen/assets/9710022/e71267a5-d084-439f-99b2-d8dbefae4dd2)
 
 ![电脑投屏](https://github.com/liuw086/SuperScreen/assets/9710022/3b562e97-5e72-4f00-8ca8-c3068bb760cc)
+
+
+https://github.com/liuw086/SuperScreen/assets/9710022/99dbec2f-7745-4338-8778-d62538ff6513
+
