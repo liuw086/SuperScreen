@@ -6,6 +6,8 @@ Super Screen offers VR users a unique and immersive viewing experience. This app
 
 A notable feature of Super Screen is its multi-platform support, including PC operating systems like Windows and Mac, allowing users to stream video content from their PCs to the big screen in their VR device. This cross-platform capability makes Super Screen suitable not just for entertainment purposes, like watching movies, but also for educational and business environments, such as virtual classrooms and meeting rooms. In education, it offers students a more immersive learning experience; in business, it can be used for virtual meetings, providing a more interactive and immersive meeting experience. Streaming support for the Linux platform is currently under development and will be available in future versions.
 
+Quest App download : https://www.oculus.com/experiences/quest/6888344581279456/
+
 PC client download ：https://github.com/liuw086/SuperScreenPC/releases/
 
 ![大屏中打开](https://github.com/liuw086/SuperScreen/assets/9710022/e71267a5-d084-439f-99b2-d8dbefae4dd2)
